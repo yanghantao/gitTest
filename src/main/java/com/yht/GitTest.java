@@ -6,5 +6,7 @@ public class GitTest {
         System.out.println("hello world!!!");
         System.out.println("hello world!!!");
         System.out.println("主冲突");
+        System.out.println("hello yht!!!");
+        System.out.println("冲突！！！");
     }
 }
