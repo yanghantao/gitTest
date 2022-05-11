@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("冲突！！！");
         System.out.println("push....github");
         System.out.println("push....github");
+        System.out.println("好好的哦");
     }
 }
